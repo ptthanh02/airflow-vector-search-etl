@@ -1,4 +1,4 @@
-# 🚀 airflow vector search ETL
+# 🚀 Airflow Vector Search ETL
 
 ## Project Overview
 
